@@ -40,5 +40,6 @@ pip install tkinter
 5. Run the ```SimpleCalculator.py``` file
 
 ## Contributing 💡
-If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
+If you find any issue just put it in the repository issue section, thank you.<br>
+ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار
