@@ -39,6 +39,7 @@ pip install tkinter
 4. Extract the folder
 5. Run the ```SimpleCalculator.py``` file
 
+
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
 If you find any issue just put it in the repository issue section, thank you.<br><br>
