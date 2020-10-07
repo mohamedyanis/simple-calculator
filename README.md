@@ -3,7 +3,8 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 
-This is a simple calculator written in Python With Tkinter module.
+This is a simple calculator written in Python With Tkinter module.<br>
+Click <a href="https://docs.python.org/3/library/tk.html"> here </a> to read more about **tkinter** module.
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
@@ -16,6 +17,13 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
+
+## Screenshots
+Home           | Calculation
+:---------------------:|:------------------:
+![screenshoot](screenshots/cal1.png) | ![screenshoot](screenshots/cal2.png)
+Result           | Error!
+![screenshoot](screenshots/cal3.png) | ![screenshoot](screenshots/cal4.png)
 
 ## Requirements
 * python
