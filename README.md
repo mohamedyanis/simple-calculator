@@ -4,7 +4,7 @@
 
 
 This is a simple calculator written in Python With Tkinter module.<br>
-Click <a href="https://docs.python.org/3/library/tk.html"> here </a> to read more about [**tkinter**] module.
+Click <a href="https://docs.python.org/3/library/tk.html"> here </a> to read more about **tkinter** module.
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
