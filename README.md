@@ -41,5 +41,5 @@ pip install tkinter
 
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
-If you find any issue just put it in the repository issue section, thank you.<br>
-ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار
+If you find any issue just put it in the repository issue section, thank you.<br><br>
+اللّهم إنّي أسألك علماً نافعاً و رزقاً طيباً متقبلاً
