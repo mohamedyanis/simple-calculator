@@ -34,6 +34,7 @@ Result           | Error!
 2. Install the packeges, write in your command (cmd):
 ```bash
 pip install tkinter
+pip install wikipedia
 ```
 3. Install this repository, click <a href="https://github.com/mohamedyanis/simple-calculator/archive/main.zip"> here </a> to install it.
 4. Extract the folder
