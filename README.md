@@ -3,7 +3,7 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 
-This is a simple calculator written in Python With Tkinter module.<br>
+This is a simple calculator written in Python With Tkinter module. Of course with math library!<br>
 Click <a href="https://docs.python.org/3/library/tk.html"> here </a> to read more about **tkinter** module.
 
 ## #100daysofcode
